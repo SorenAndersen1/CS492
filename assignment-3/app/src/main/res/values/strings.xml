@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Lifecycle Weather</string>
+    <string name="forecast_for">Forecast for</string>
+    <string name="loading_error_message">Couldn\'t load forecast.  Check your internet connection and try again.</string>
+    <string name="action_share_title">Share forecast</string>
+    <string name="action_location">Show forecast location</string>
+    <string name="action_settings_title">Settings</string>
+    <string name="action_map_title">Map title</string>
+
+    <string name="forecast_item_details">%1$d%2$s - %3$s</string>
+    <string name="forecast_item_low_high_temp">Low: %1$d%3$s   High: %2$d%3$s</string>
+    <string name="forecast_item_wind">Wind: %1$d MPH %2$s</string>
+    <string name="forecast_item_humidity">Humidity: %1$d%%</string>
+    <string name="forecast_item_share_text">Forecast for %1$s, %2$s: %3$d%4$s - %5$s #CS492Weather</string>
+
+    <string name="forecast_date">%1$tb %1$te</string>
+    <string name="forecast_time">%1$tl:%1$tM %1$tp</string>
+    <string name="forecast_temp">%1$d°%2$s</string>
+    <string name="forecast_pop">%1$d%%</string>
+    <string name="forecast_clouds">%1$d%%</string>
+    <string name="forecast_wind">%1$d%2$s</string>
+    <string name="forecast_date_time">%1$s, %2$s</string>
+
+    <string name="pref_temp_key">pref_temp</string>
+    <string name="pref_temp_title">Temperature</string>
+    <string name="pref_temp_entry_kelvin" translatable="false">Kelvin</string>
+    <string name="pref_temp_value_kelvin">Kelvin</string>
+    <string name="pref_temp_entry_imperial" translatable="false">Imperial</string>
+    <string name="pref_temp_value_imperial">Imperial</string>
+    <string name="pref_temp_entry_metric" translatable="false">Imperial</string>
+    <string name="pref_temp_value_metric">Imperial</string>
+    <string name="pref_temp_default">Kelvin</string>
+
+    <string name="pref_location_key">pref_location</string>
+    <string name="pref_location_title">Location</string>
+    <string name="pref_location_default">Miami,FL,US</string>
+    <string name="share_forecast_text">Weather forecast from %1$s for %2$s, %3$s: %4$s with a high of %5$s, a low of %6$s, and a %7$s chance of precipitation.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.CS492Weather.HighTemp" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">#F44336</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearance.CS492Weather.LowTemp" parent="TextAppearance.CS492Weather.HighTemp">
+        <item name="android:textColor">#03A9F4</item>
+    </style>
+</resources>
